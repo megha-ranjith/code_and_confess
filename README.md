@@ -17,10 +17,10 @@ Heart Script is a web application that generates personalized love letters based
 
 ## 🛠 Tech Stack  
 
-- **TypeScript (77.9%)** – Scalable and maintainable development.  
-- **CSS (15.7%)** – Ensures a visually appealing UI.  
-- **JavaScript (3.7%)** – Adds interactive functionality.  
-- **HTML (2.7%)** – Structures the content.  
+- **TypeScript** – Scalable and maintainable development.  
+- **CSS** – Ensures a visually appealing UI.  
+- **JavaScript** – Adds interactive functionality.  
+- **HTML** – Structures the content.  
 
 ---
 
@@ -42,7 +42,7 @@ Heart Script is a web application that generates personalized love letters based
 
 ## 🔗 Live Demo  
 
-🔴 **[Try Heart Script Here](#)** _(Replace # with your live demo link)_  
+🔴 **[Try Heart Script Here](#)**
 
 ---
 

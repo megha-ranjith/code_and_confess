@@ -15,25 +15,6 @@ Heart Script is a web application that generates personalized love letters based
 
 ---
 
-## 📸 Screenshots  
-
-### Landing Page
-Get started with Heart Script! Enter recipient details on our intuitive landing interface.
-
-<img src="screenshots/1_landing_page.png" width="600" alt="Landing Page"/>
-
-### Letter Generation Interface
-Select relationship type and letter style, then generate your personalized love letter.
-
-<img src="screenshots/2_letter_generation.png" width="600" alt="Letter Generation Interface"/>
-
-### Generated Letter
-Beautiful, personalized love letter ready to share or download!
-
-<img src="screenshots/3_generated_letter.png" width="600" alt="Generated Love Letter"/>
-
----
-
 ## 🛠 Tech Stack  
 
 - **TypeScript** – Scalable and maintainable development.  
@@ -55,7 +36,20 @@ Beautiful, personalized love letter ready to share or download!
 
 ## 📸 Screenshots  
 
-🚀 _Coming soon!_  
+### Landing Page
+Get started with Heart Script! Enter recipient details on our intuitive landing interface.
+
+<img src="screenshots/1_landing_page.png" width="600" alt="Landing Page"/>
+
+### Letter Generation Interface
+Select relationship type and letter style, then generate your personalized love letter.
+
+<img src="screenshots/2_letter_generation.png" width="600" alt="Letter Generation Interface"/>
+
+### Generated Letter
+Beautiful, personalized love letter ready to share or download!
+
+<img src="screenshots/3_generated_letter.png" width="600" alt="Generated Love Letter"/>
 
 ---
 
